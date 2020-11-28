@@ -1,0 +1,261 @@
+body{
+  text-align: center;
+  position: relative;
+  margin: 0;
+  background-color: white;
+}
+.logo{
+  position: absolute;
+  height: 130px;
+  width: 130px;
+  left: 0;
+  top: 0;
+}
+.doc{
+  padding-top: 150px;
+  padding-left: 30px;
+  position: absolute;
+  right: 0;
+
+}
+.top{
+  line-height: 1.6;
+margin-right: 600px;
+
+  color:#006a71;
+}
+.covid{
+  font-size: 5rem;
+  color: #2d6187;
+  line-height:1.5;
+font-family: 'Lora', serif;
+text-align: justify;
+  padding-top: 100px;
+padding-left: 70px;
+}
+.tagline{
+  font-size: 1.2rem;
+    font-family: 'Frank Ruhl Libre', serif;
+    width: 50%;
+    padding-left: 50px;
+    margin-top: 10px;
+
+
+}
+
+
+.myButton {
+	box-shadow:inset 0 1px 0 0 #54a3f7;
+	background:linear-gradient(to bottom, #007dc1 5%, #122533 100%);
+	background-color:#007dc1;
+	border-radius:24px;
+	border:1px solid #124d77;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:23px;
+	padding:13px 19px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #154682;
+  position: absolute;
+  left: 70px;
+
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #122533 5%, #007dc1 100%);
+	background-color:#122533;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.topnav {
+  background-color: white;
+  overflow: hidden;
+}
+.topnav a {
+  float: right;
+  color: #2d6187;
+  text-align: center;
+  padding: 16px 24px;
+  text-decoration: none;
+  font-size: 19px;
+}
+.topnav a:hover {
+  background-color: grey;
+  color: white;
+}
+.topnav a.active {
+  background-color:#2d6187 ;
+  color: white;
+}
+.h{
+  height: 630px;
+  background-color: white;
+}
+.hospital{
+  height: 200px;
+  width: 200px;
+  padding-top: 30px;
+}
+.hos{
+  font-size: 2.5rem;
+  text-align: center;
+  color:  #2d6187;
+}
+.parahos{
+  width: 50%;
+  margin: auto;
+  font-size: 1.5rem;
+  line-height: 2;
+}
+.bed{
+  padding-top: 150px;
+  height: 600px;
+  background-color: #9ddfd3;
+}
+.bedimg{
+  height: 200px;
+  width: 200px;
+
+}
+.hbed{
+  font-size: 2.8rem;
+  text-align: center;
+  color:  #2d6187;
+}
+.parabed{
+  width: 50%;
+  margin: auto;
+  font-size: 1.5rem;
+  line-height: 2;
+  color: black;
+}
+.med{
+  padding-top: 100px;
+  height: 600px;
+  background-color: white;
+
+
+}
+.pill{
+  height: 200px;
+  width: 200px;
+}
+.syringe{
+  height: 200px;
+  width: 200px;
+}
+.meds{
+  font-size: 2.8rem;
+  text-align: center;
+  color:  #2d6187;
+}
+.paramed{
+  width: 50%;
+  margin: auto;
+  font-size: 1.5rem;
+  line-height: 2;
+  color: black;
+
+}
+.fees{
+  padding-top: 150px;
+  height: 600px;
+  background-color: #9ddfd3;
+
+
+}
+.fee{
+  height: 200px;
+  width: 200px;
+}
+.hfee{
+  font-size: 2.8rem;
+  text-align: center;
+  color:  #2d6187;
+}
+.pfee{
+  width: 50%;
+  margin: auto;
+  font-size: 1.5rem;
+  line-height: 2;
+  color: black;
+}
+.body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+	font-family: 'Josefin Sans', sans-serif;
+}
+.container{
+    width: 100%;
+	height: 85vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	color: black;
+}
+h1{
+    margin: 30px 0 20px 0;
+	font-size: 55px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.myButton2 {
+	box-shadow:inset 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:19px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 19px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+    margin-right: 70px;
+
+}
+.myButton2:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+}
+body{
+background-color:white;
+text-align: center;
+
+}
+.cd{
+font-size: 3rem;
+  color:#2d6187;
+  line-height: 1.5;
+  font-family:'Lora', serif;
+  margin-left: 300px;
+
+  padding-top:50px;
+
+}
+.callimg{
+  left: auto;
+}
+
+h2{
+  color:#2d6187;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+  font-size: 20px;
+}
